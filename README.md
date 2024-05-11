@@ -1,6 +1,6 @@
 # Web Application with HTTP and Socket Servers
 
-This project implements a simple web application with routing for two HTML pages: `index.html` and `message.html`. Static resources such as `style.css` and `logo.png` are processed during runtime. In case of a `404 Not Found error`, the application returns the `error.html` page. The HTTP server runs on port 3000.
+This project implements a simple web application with routing for two HTML pages: `index.html` and `message.html`. Static resources such as `style.css` and `logo.png` are processed during runtime. In case of a 404 Not Found error, the application returns the `error.html` page.
 
 A Socket server is created to handle form submission. The algorithm works as follows:
 
